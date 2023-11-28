@@ -6,7 +6,7 @@ This code is a machine learning project using TensorFlow and other Python librar
    - The necessary libraries such as NumPy, Pandas, Matplotlib, Seaborn, Warnings, TensorFlow, and scikit-learn are imported.
 
 ## 2. Loading Dataset:
-   - The dataset is loaded from a CSV file named 'house2.csv' using Pandas. The dataset used is taken from [kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/data)
+   - The dataset is loaded from a CSV file named 'house2.csv' using Pandas. The dataset used is taken from Kaggle [A link to the original data set](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/data).
 
 ## 3. Exploratory Data Analysis (EDA):
    - A sample of the dataset is displayed, and basic information like shape and null values are checked.
